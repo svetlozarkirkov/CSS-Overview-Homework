@@ -116,7 +116,7 @@ article:last-of-type {
     margin-bottom: 20px;
 }
 
-#webColors, #webSafeColors, #RGB, #RGBA, #\#HSLHSV, #\#lorem {
+#webColors, #webSafeColors, #RGB, #RGBA, #HSLHSV, #lorem {
     font-size: 2em;
     padding: 10px;
     margin: 6px;
@@ -146,13 +146,13 @@ article:last-of-type {
     color: white;
 }
 
-#\#HSLHSV {
+#HSLHSV {
     background-color: #0000ff;
     border-radius: 8px;
     color: white;
 }
 
-#\#lorem {
+#lorem {
     background-color: #800080;
     border-radius: 8px;
     color: white;
